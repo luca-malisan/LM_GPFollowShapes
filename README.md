@@ -50,6 +50,8 @@ After binding and fine tuning, if you want a smoother result you can try with a 
 
 The button **Delete all FollowShapes bindings** at the top will remove from the scene all the armatures and empties used on the specified Grease Pencil target object.
 
+The process might take time, specially with dense source meshes and Grease Pencil objects with a lot of frames and strokes. If you want to have feedback, open the console before clicking "Bind". In the console you will see progress messages.
+
 ## Requirements
 
 - Blender 4.3+
